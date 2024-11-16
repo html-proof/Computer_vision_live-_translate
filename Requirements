@@ -2,3 +2,14 @@ pip install opencv-python                4.10.0.84
 pip install SpeechRecognition            3.11.0
 pip install pyttsx3                      2.98
 pip install translate                    3.6.1
+
+-----------------------------------------------------------
+
+If the "SpeechRecognition"  files don't work please add this additional library
+pip install sounddevice
+pip install pyaudio
+pip install --upgrade pyaudio
+pip install wheel
+pip install google-api-python-client
+pip install monotonic
+pip install SpeechRecognition
