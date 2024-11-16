@@ -90,6 +90,9 @@ Use deep learning models for more accurate face and object detection.
 This project showcases a simple but powerful implementation of Python's multimedia processing capabilities. Happy coding! 🎉
 
 
+Just read Requirements alone with this.
+
+
 
 
 
