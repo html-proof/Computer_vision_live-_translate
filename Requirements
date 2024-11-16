@@ -1,0 +1,4 @@
+pip install opencv-python                4.10.0.84
+pip install SpeechRecognition            3.11.0
+pip install pyttsx3                      2.98
+pip install translate                    3.6.1
